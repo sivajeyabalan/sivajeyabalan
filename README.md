@@ -60,7 +60,7 @@
 
 | Platform | Achievement | Badge |
 |----------|------------|-------|
-| **LeetCode** | 250+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivajeyabalan15/) |
+| **LeetCode** | 250+ Problems Solved | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sivajeyabalan15/) |
 | **GeeksforGeeks** | 75+ Problems Solved | [![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sivajeyahajk/) |
 
 
